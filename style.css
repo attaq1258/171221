@@ -27,3 +27,6 @@ h1{position:absolute;top:25%;left:50%;transform:translate(-50%,-50%);-ms-transfo
 .upbtn{position:absolute;right:0;bottom:-1rem;font-size:1.2rem;padding:0 0.5rem;background-color:#ffffff;box-shadow:3px 3px 5px #aaaaaa;border-radius:4px}
 
 .foo{text-align:center;width:100%;padding:0.4rem 0;font-size:0.7rem;white-space:nowrap;background-color:#cccccc;background-image:linear-gradient(to right,#D5A7A7,10%,#FFE9D3,90%,#D5A7A7)}
+
+.spk1 { position:absolute; font-size:0.7rem;color: transparent; text-shadow: 0 0 white, 1.2rem 0 white; animation: shine .5s linear infinite; }
+.spk2 { position: absolute; color: transparent; font-size:0.5rem;left:0.7rem;text-shadow: 0 0 white, 1.2rem 0 white; animation: shine .3s linear infinite .2s; } @keyframes shine { from {opacity:1;} to {opacity:0.6;} }
