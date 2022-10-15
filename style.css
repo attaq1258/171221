@@ -14,6 +14,7 @@ hr{border-top:1px solid #cccccc}
 .bod{position:relative;margin:0 auto;width:100%;background-color:#ffffff}
 
 h1{position:absolute;top:25%;left:50%;transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);white-space:nowrap;padding:0.5rem 2rem;border:1px solid #cccccc;letter-spacing:0.5rem;color:#f1f1f1;border-radius:4px;font-size:1.5rem;font-weight:normal}
+h2{font-size:1rem;}
 
 .bar{position:absolute;bottom:-0.9rem;left:50%;transform:translate(-50%,0%);-ms-transform:translate(-50%,0%);background-color:#f0f0f0;border-radius:4px;padding:0.3rem 0.7rem;white-space:nowrap}
 .but{padding:0.3rem}
